@@ -1,8 +1,4 @@
-# SingletonClass Repository
-
-This repository contains a C# implementation of the Singleton design pattern using a thread-safe approach. The `SingletonClass` class ensures that only one instance of the class can exist, providing a global point of access to that instance.
-
-## Singleton Design Pattern
+# Singleton Design Pattern
 
 The Singleton pattern is a creational design pattern that ensures a class has only one instance and provides a global point of access to that instance. It is particularly useful when you want to control access to a shared resource or ensure that there's only one instance of a specific class in your application.
 
